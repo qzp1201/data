@@ -1,0 +1,44 @@
+12947:   bash
+0000002aad645000    828K r-x-- bash
+0000002aad715000     12K r---- bash
+0000002aad718000     40K rw--- bash
+0000002aad722000     40K rw---   [ anon ]
+0000002ac77eb000    396K rw---   [ anon ]
+0000003ff352f000     32K r-x-- libnss_files-2.31.so
+0000003ff3537000      4K r---- libnss_files-2.31.so
+0000003ff3538000      4K rw--- libnss_files-2.31.so
+0000003ff3539000     24K rw---   [ anon ]
+0000003ff3546000    200K r---- LC_CTYPE
+0000003ff3578000      4K r---- LC_NUMERIC
+0000003ff3579000      4K r---- LC_TIME
+0000003ff357a000   1484K r---- LC_COLLATE
+0000003ff36ed000      4K r---- LC_MONETARY
+0000003ff36ee000     28K r--s- gconv-modules.cache
+0000003ff36f5000   2968K r---- locale-archive
+0000003ff39db000      8K rw---   [ anon ]
+0000003ff39dd000   1036K r-x-- libc-2.31.so
+0000003ff3ae0000     16K r---- libc-2.31.so
+0000003ff3ae4000      8K rw--- libc-2.31.so
+0000003ff3ae6000     16K rw---   [ anon ]
+0000003ff3aea000      8K r-x-- libdl-2.31.so
+0000003ff3aec000      4K r---- libdl-2.31.so
+0000003ff3aed000      4K rw--- libdl-2.31.so
+0000003ff3aee000    140K r-x-- libtinfo.so.6.2
+0000003ff3b11000     16K r---- libtinfo.so.6.2
+0000003ff3b15000      4K rw--- libtinfo.so.6.2
+0000003ff3b16000      8K rw---   [ anon ]
+0000003ff3b18000      4K r---- SYS_LC_MESSAGES
+0000003ff3b19000      4K r---- LC_PAPER
+0000003ff3b1a000      4K r---- LC_NAME
+0000003ff3b1b000      4K r---- LC_ADDRESS
+0000003ff3b1c000      4K r---- LC_TELEPHONE
+0000003ff3b1d000      4K r---- LC_MEASUREMENT
+0000003ff3b1e000      4K r---- LC_IDENTIFICATION
+0000003ff3b1f000      4K r-x--   [ anon ]
+0000003ff3b20000      4K r----   [ anon ]
+0000003ff3b21000     96K r-x-- ld-2.31.so
+0000003ff3b39000      4K r---- ld-2.31.so
+0000003ff3b3a000      4K rw--- ld-2.31.so
+0000003ff3b3b000      4K rw---   [ anon ]
+0000003fffcca000    132K rw---   [ stack ]
+ total             7616K

@@ -1,0 +1,25 @@
+661:   /sbin/agetty -o -p -- \u --noclear tty1 linux
+0000002ae485b000     44K r-x-- agetty
+0000002ae4866000      4K r---- agetty
+0000002ae4867000      4K rw--- agetty
+0000002ae4868000      8K rw---   [ anon ]
+0000002b14c8b000    132K rw---   [ anon ]
+0000003fcff18000     28K r--s- gconv-modules.cache (deleted)
+0000003fcff1f000    200K r---- LC_CTYPE
+0000003fcff51000   2968K r---- locale-archive
+0000003fd0237000     32K r-x-- libnss_files-2.31.so (deleted)
+0000003fd023f000      4K r---- libnss_files-2.31.so (deleted)
+0000003fd0240000      4K rw--- libnss_files-2.31.so (deleted)
+0000003fd0241000     24K rw---   [ anon ]
+0000003fd0247000   1036K r-x-- libc-2.31.so (deleted)
+0000003fd034a000     12K r---- libc-2.31.so (deleted)
+0000003fd034d000     12K rw--- libc-2.31.so (deleted)
+0000003fd0350000     20K rw---   [ anon ]
+0000003fd035b000      4K r-x--   [ anon ]
+0000003fd035c000      4K r----   [ anon ]
+0000003fd035d000     96K r-x-- ld-2.31.so (deleted)
+0000003fd0375000      4K r---- ld-2.31.so (deleted)
+0000003fd0376000      4K rw--- ld-2.31.so (deleted)
+0000003fd0377000      4K rw---   [ anon ]
+0000003fff876000    132K rw---   [ stack ]
+ total             4780K

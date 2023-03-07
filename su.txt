@@ -1,0 +1,119 @@
+12946:   su root
+0000002ade15e000     40K r-x-- su
+0000002ade169000      4K r---- su
+0000002ade16a000      4K rw--- su
+0000002b0cc04000    488K rw---   [ anon ]
+0000003ff0f2a000    156K r-x-- libnss_systemd.so.2 (deleted)
+0000003ff0f51000      4K ----- libnss_systemd.so.2 (deleted)
+0000003ff0f52000     12K r---- libnss_systemd.so.2 (deleted)
+0000003ff0f55000      4K rw--- libnss_systemd.so.2 (deleted)
+0000003ff0f97000     84K r-x-- libpthread-2.31.so
+0000003ff0fac000      4K r---- libpthread-2.31.so
+0000003ff0fad000      4K rw--- libpthread-2.31.so
+0000003ff0fae000     16K rw---   [ anon ]
+0000003ff0fb2000    520K r-x-- libm-2.31.so
+0000003ff1034000      4K r---- libm-2.31.so
+0000003ff1035000      4K rw--- libm-2.31.so
+0000003ff103d000    316K r-x-- pam_systemd.so (deleted)
+0000003ff108c000     20K r---- pam_systemd.so (deleted)
+0000003ff1091000      8K rw--- pam_systemd.so (deleted)
+0000003ff1093000     16K r-x-- libcap.so.2.32
+0000003ff1097000      4K ----- libcap.so.2.32
+0000003ff1098000      4K r---- libcap.so.2.32
+0000003ff1099000      4K rw--- libcap.so.2.32
+0000003ff109d000      8K r-x-- pam_umask.so
+0000003ff109f000      4K r---- pam_umask.so
+0000003ff10a0000      4K rw--- pam_umask.so
+0000003ff10a1000      8K r-x-- pam_cap.so
+0000003ff10a3000      4K r---- pam_cap.so
+0000003ff10a4000      4K rw--- pam_cap.so
+0000003ff10a5000     60K r-x-- libnsl-2.31.so
+0000003ff10b4000      4K r---- libnsl-2.31.so
+0000003ff10b5000      4K rw--- libnsl-2.31.so
+0000003ff10b6000      8K rw---   [ anon ]
+0000003ff10b8000    196K r-x-- libcrypt.so.1.1.0
+0000003ff10e9000      4K r---- libcrypt.so.1.1.0
+0000003ff10ea000      4K rw--- libcrypt.so.1.1.0
+0000003ff10eb000     32K rw---   [ anon ]
+0000003ff10f4000      4K r-x-- pam_permit.so
+0000003ff10f5000      4K r---- pam_permit.so
+0000003ff10f6000      4K rw--- pam_permit.so
+0000003ff10f7000      4K r-x-- pam_deny.so
+0000003ff10f8000      4K r---- pam_deny.so
+0000003ff10f9000      4K rw--- pam_deny.so
+0000003ff10fa000     40K r-x-- pam_unix.so
+0000003ff1104000      4K ----- pam_unix.so
+0000003ff1105000      4K r---- pam_unix.so
+0000003ff1106000      4K rw--- pam_unix.so
+0000003ff1107000     48K rw---   [ anon ]
+0000003ff1113000     16K r-x-- pam_limits.so
+0000003ff1117000      4K r---- pam_limits.so
+0000003ff1118000      4K rw--- pam_limits.so
+0000003ff1119000    312K r-x-- libpcre2-8.so.0.9.0
+0000003ff1167000      4K r---- libpcre2-8.so.0.9.0
+0000003ff1168000      4K rw--- libpcre2-8.so.0.9.0
+0000003ff1169000    108K r-x-- libselinux.so.1
+0000003ff1184000      4K r---- libselinux.so.1
+0000003ff1185000      4K rw--- libselinux.so.1
+0000003ff1186000      8K rw---   [ anon ]
+0000003ff118a000     12K r-x-- pam_env.so
+0000003ff118d000      4K r---- pam_env.so
+0000003ff118e000      4K rw--- pam_env.so
+0000003ff118f000     32K r-x-- libnss_files-2.31.so
+0000003ff1197000      4K r---- libnss_files-2.31.so
+0000003ff1198000      4K rw--- libnss_files-2.31.so
+0000003ff1199000     24K rw---   [ anon ]
+0000003ff119f000      8K r-x-- pam_mail.so
+0000003ff11a1000      4K r---- pam_mail.so
+0000003ff11a2000      4K rw--- pam_mail.so
+0000003ff11a3000      4K r-x-- pam_rootok.so
+0000003ff11a4000      4K r---- pam_rootok.so
+0000003ff11a5000      4K rw--- pam_rootok.so
+0000003ff11a6000    200K r---- LC_CTYPE
+0000003ff11d8000      4K r---- LC_NUMERIC
+0000003ff11d9000      4K r---- LC_TIME
+0000003ff11da000   1484K r---- LC_COLLATE
+0000003ff134d000      4K r---- LC_MONETARY
+0000003ff134e000     28K r--s- gconv-modules.cache
+0000003ff1355000   2968K r---- locale-archive
+0000003ff163b000      8K rw---   [ anon ]
+0000003ff163d000     12K r-x-- libcap-ng.so.0.0.0
+0000003ff1640000      4K r---- libcap-ng.so.0.0.0
+0000003ff1641000      4K rw--- libcap-ng.so.0.0.0
+0000003ff1642000      8K rw---   [ anon ]
+0000003ff1644000      8K r-x-- libdl-2.31.so
+0000003ff1646000      4K r---- libdl-2.31.so
+0000003ff1647000      4K rw--- libdl-2.31.so
+0000003ff1648000    108K r-x-- libaudit.so.1.0.0
+0000003ff1663000      4K r---- libaudit.so.1.0.0
+0000003ff1664000      4K rw--- libaudit.so.1.0.0
+0000003ff1665000     40K rw---   [ anon ]
+0000003ff166f000   1036K r-x-- libc-2.31.so
+0000003ff1772000     16K r---- libc-2.31.so
+0000003ff1776000      8K rw--- libc-2.31.so
+0000003ff1778000     16K rw---   [ anon ]
+0000003ff177c000      8K r-x-- libutil-2.31.so
+0000003ff177e000      4K r---- libutil-2.31.so
+0000003ff177f000      4K rw--- libutil-2.31.so
+0000003ff1780000      8K r-x-- libpam_misc.so.0.82.1
+0000003ff1782000      4K r---- libpam_misc.so.0.82.1
+0000003ff1783000      4K rw--- libpam_misc.so.0.82.1
+0000003ff1784000     40K r-x-- libpam.so.0.84.2
+0000003ff178e000      4K r---- libpam.so.0.84.2
+0000003ff178f000      4K rw--- libpam.so.0.84.2
+0000003ff1790000      8K rw---   [ anon ]
+0000003ff1792000      4K r---- SYS_LC_MESSAGES
+0000003ff1793000      4K r---- LC_PAPER
+0000003ff1794000      4K r---- LC_NAME
+0000003ff1795000      4K r---- LC_ADDRESS
+0000003ff1796000      4K r---- LC_TELEPHONE
+0000003ff1797000      4K r---- LC_MEASUREMENT
+0000003ff1798000      4K r---- LC_IDENTIFICATION
+0000003ff1799000      4K r-x--   [ anon ]
+0000003ff179a000      4K r----   [ anon ]
+0000003ff179b000     96K r-x-- ld-2.31.so
+0000003ff17b3000      4K r---- ld-2.31.so
+0000003ff17b4000      4K rw--- ld-2.31.so
+0000003ff17b5000      4K rw---   [ anon ]
+0000003fff821000    272K rw---   [ stack ]
+ total             9248K

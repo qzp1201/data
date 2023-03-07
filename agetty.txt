@@ -1,0 +1,36 @@
+635:   /sbin/agetty -o -p -- \u --keep-baud 115200,38400,9600 hvc0 vt220
+0000002abdae5000     44K r-x-- agetty
+0000002abdaf0000      4K r---- agetty
+0000002abdaf1000      4K rw--- agetty
+0000002abdaf2000      8K rw---   [ anon ]
+0000002ad77d0000    132K rw---   [ anon ]
+0000003fd9116000     32K r-x-- libnss_files-2.31.so (deleted)
+0000003fd911e000      4K r---- libnss_files-2.31.so (deleted)
+0000003fd911f000      4K rw--- libnss_files-2.31.so (deleted)
+0000003fd9120000     24K rw---   [ anon ]
+0000003fd912c000    200K r---- LC_CTYPE
+0000003fd915e000      4K r---- LC_NUMERIC
+0000003fd915f000      4K r---- LC_TIME
+0000003fd9160000   1484K r---- LC_COLLATE
+0000003fd92d3000      4K r---- LC_MONETARY
+0000003fd92d4000      4K r---- SYS_LC_MESSAGES
+0000003fd92d5000     28K r--s- gconv-modules.cache (deleted)
+0000003fd92dc000   2968K r---- locale-archive
+0000003fd95c2000   1036K r-x-- libc-2.31.so (deleted)
+0000003fd96c5000     12K r---- libc-2.31.so (deleted)
+0000003fd96c8000     12K rw--- libc-2.31.so (deleted)
+0000003fd96cb000     20K rw---   [ anon ]
+0000003fd96d0000      4K r---- LC_PAPER
+0000003fd96d1000      4K r---- LC_NAME
+0000003fd96d2000      4K r---- LC_ADDRESS
+0000003fd96d3000      4K r---- LC_TELEPHONE
+0000003fd96d4000      4K r---- LC_MEASUREMENT
+0000003fd96d5000      4K r---- LC_IDENTIFICATION
+0000003fd96d6000      4K r-x--   [ anon ]
+0000003fd96d7000      4K r----   [ anon ]
+0000003fd96d8000     96K r-x-- ld-2.31.so (deleted)
+0000003fd96f0000      4K r---- ld-2.31.so (deleted)
+0000003fd96f1000      4K rw--- ld-2.31.so (deleted)
+0000003fd96f2000      4K rw---   [ anon ]
+0000003fffe37000    132K rw---   [ stack ]
+ total             6304K
