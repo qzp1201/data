@@ -1,0 +1,18 @@
+
+25308:   ./uaf
+0000002ae91a9000      4K r-x-- uaf
+0000002ae91aa000      4K r---- uaf
+0000002ae91ab000      4K rw--- uaf
+0000002afe723000    132K rw---   [ anon ]
+0000003fbc319000   1036K r-x-- libc-2.33.so
+0000003fbc41c000     12K r---- libc-2.33.so
+0000003fbc41f000     12K rw--- libc-2.33.so
+0000003fbc422000     40K rw---   [ anon ]
+0000003fbc439000      4K r----   [ anon ]
+0000003fbc43a000      4K r-x--   [ anon ]
+0000003fbc43b000    108K r-x-- ld-2.33.so
+0000003fbc457000      4K r---- ld-2.33.so
+0000003fbc458000      8K rw--- ld-2.33.so
+0000003fffd8f000    132K rw---   [ stack ]
+ total             1504K
+
