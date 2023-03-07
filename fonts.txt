@@ -1,0 +1,70 @@
+47607:   ./pdffonts 1.pdf
+0000002ae808a000     12K r-x-- pdffonts
+0000002ae808d000      4K r---- pdffonts
+0000002ae808e000      4K rw--- pdffonts
+0000002b17066000   1464K rw---   [ anon ]
+0000003fbec51000    260K rw---   [ anon ]
+0000003fbecb3000     28K rw---   [ anon ]
+0000003fbecba000     24K r-x-- libuuid.so.1.3.0
+0000003fbecc0000      4K r---- libuuid.so.1.3.0
+0000003fbecc1000      4K rw--- libuuid.so.1.3.0
+0000003fbecc2000    124K r-x-- libexpat.so.1.6.11
+0000003fbece1000      4K ----- libexpat.so.1.6.11
+0000003fbece2000      8K r---- libexpat.so.1.6.11
+0000003fbece4000      4K rw--- libexpat.so.1.6.11
+0000003fbece5000      8K rw---   [ anon ]
+0000003fbece7000     72K r-x-- libgcc_s.so.1
+0000003fbecf9000      4K r---- libgcc_s.so.1
+0000003fbecfa000      4K rw--- libgcc_s.so.1
+0000003fbecfb000    520K r-x-- libm-2.31.so
+0000003fbed7d000      4K r---- libm-2.31.so
+0000003fbed7e000      4K rw--- libm-2.31.so
+0000003fbed7f000     84K r-x-- libpthread-2.31.so
+0000003fbed94000      4K r---- libpthread-2.31.so
+0000003fbed95000      4K rw--- libpthread-2.31.so
+0000003fbed96000     16K rw---   [ anon ]
+0000003fbed9a000    148K r-x-- libpng16.so.16.37.0
+0000003fbedbf000      4K r---- libpng16.so.16.37.0
+0000003fbedc0000      4K rw--- libpng16.so.16.37.0
+0000003fbedc1000    240K r-x-- libopenjp2.so.2.3.1
+0000003fbedfd000      4K ----- libopenjp2.so.2.3.1
+0000003fbedfe000      4K r---- libopenjp2.so.2.3.1
+0000003fbedff000      4K rw--- libopenjp2.so.2.3.1
+0000003fbee00000     76K r-x-- libz.so.1.2.11
+0000003fbee13000      4K ----- libz.so.1.2.11
+0000003fbee14000      4K r---- libz.so.1.2.11
+0000003fbee15000      4K rw--- libz.so.1.2.11
+0000003fbee16000      8K rw---   [ anon ]
+0000003fbee18000    312K r-x-- libjpeg.so.8.2.2
+0000003fbee66000      4K r---- libjpeg.so.8.2.2
+0000003fbee67000      4K rw--- libjpeg.so.8.2.2
+0000003fbee68000    196K r-x-- libfontconfig.so.1.12.0
+0000003fbee99000      4K ----- libfontconfig.so.1.12.0
+0000003fbee9a000      8K r---- libfontconfig.so.1.12.0
+0000003fbee9c000      4K rw--- libfontconfig.so.1.12.0
+0000003fbee9d000    500K r-x-- libfreetype.so.6.17.1
+0000003fbef1a000      4K ----- libfreetype.so.6.17.1
+0000003fbef1b000     24K r---- libfreetype.so.6.17.1
+0000003fbef21000      4K rw--- libfreetype.so.6.17.1
+0000003fbef22000   1036K r-x-- libc-2.31.so
+0000003fbf025000     16K r---- libc-2.31.so
+0000003fbf029000      8K rw--- libc-2.31.so
+0000003fbf02b000     16K rw---   [ anon ]
+0000003fbf02f000   1620K r-x-- libstdc++.so.6.0.28
+0000003fbf1c4000      4K ----- libstdc++.so.6.0.28
+0000003fbf1c5000     40K r---- libstdc++.so.6.0.28
+0000003fbf1cf000     16K rw--- libstdc++.so.6.0.28
+0000003fbf1d3000     16K rw---   [ anon ]
+0000003fbf1de000   2492K r-x-- libpoppler.so.126.0.0
+0000003fbf44d000      4K ----- libpoppler.so.126.0.0
+0000003fbf44e000    340K r---- libpoppler.so.126.0.0
+0000003fbf4a3000     44K rw--- libpoppler.so.126.0.0
+0000003fbf4ae000      8K rw---   [ anon ]
+0000003fbf4b0000      4K r-x--   [ anon ]
+0000003fbf4b1000      4K r----   [ anon ]
+0000003fbf4b2000     96K r-x-- ld-2.31.so
+0000003fbf4ca000      4K r---- ld-2.31.so
+0000003fbf4cb000      4K rw--- ld-2.31.so
+0000003fbf4cc000      4K rw---   [ anon ]
+0000003fff8ae000    132K rw---   [ stack ]
+ total            10144K

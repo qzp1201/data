@@ -1,0 +1,70 @@
+43879:   ./pdftotext 1.pdf 3.txt
+0000002ae0b0d000     28K r-x-- pdftotext
+0000002ae0b15000      4K r---- pdftotext
+0000002ae0b16000      4K rw--- pdftotext
+0000002ae8137000   2828K rw---   [ anon ]
+0000003fe0d84000    260K rw---   [ anon ]
+0000003fe0de6000     28K rw---   [ anon ]
+0000003fe0ded000     24K r-x-- libuuid.so.1.3.0
+0000003fe0df3000      4K r---- libuuid.so.1.3.0
+0000003fe0df4000      4K rw--- libuuid.so.1.3.0
+0000003fe0df5000    124K r-x-- libexpat.so.1.6.11
+0000003fe0e14000      4K ----- libexpat.so.1.6.11
+0000003fe0e15000      8K r---- libexpat.so.1.6.11
+0000003fe0e17000      4K rw--- libexpat.so.1.6.11
+0000003fe0e18000      8K rw---   [ anon ]
+0000003fe0e1a000    520K r-x-- libm-2.31.so
+0000003fe0e9c000      4K r---- libm-2.31.so
+0000003fe0e9d000      4K rw--- libm-2.31.so
+0000003fe0e9e000     84K r-x-- libpthread-2.31.so
+0000003fe0eb3000      4K r---- libpthread-2.31.so
+0000003fe0eb4000      4K rw--- libpthread-2.31.so
+0000003fe0eb5000     16K rw---   [ anon ]
+0000003fe0eb9000    148K r-x-- libpng16.so.16.37.0
+0000003fe0ede000      4K r---- libpng16.so.16.37.0
+0000003fe0edf000      4K rw--- libpng16.so.16.37.0
+0000003fe0ee0000    240K r-x-- libopenjp2.so.2.3.1
+0000003fe0f1c000      4K ----- libopenjp2.so.2.3.1
+0000003fe0f1d000      4K r---- libopenjp2.so.2.3.1
+0000003fe0f1e000      4K rw--- libopenjp2.so.2.3.1
+0000003fe0f1f000     76K r-x-- libz.so.1.2.11
+0000003fe0f32000      4K ----- libz.so.1.2.11
+0000003fe0f33000      4K r---- libz.so.1.2.11
+0000003fe0f34000      4K rw--- libz.so.1.2.11
+0000003fe0f35000    312K r-x-- libjpeg.so.8.2.2
+0000003fe0f83000      4K r---- libjpeg.so.8.2.2
+0000003fe0f84000      4K rw--- libjpeg.so.8.2.2
+0000003fe0f85000      8K rw---   [ anon ]
+0000003fe0f87000    196K r-x-- libfontconfig.so.1.12.0
+0000003fe0fb8000      4K ----- libfontconfig.so.1.12.0
+0000003fe0fb9000      8K r---- libfontconfig.so.1.12.0
+0000003fe0fbb000      4K rw--- libfontconfig.so.1.12.0
+0000003fe0fbc000    500K r-x-- libfreetype.so.6.17.1
+0000003fe1039000      4K ----- libfreetype.so.6.17.1
+0000003fe103a000     24K r---- libfreetype.so.6.17.1
+0000003fe1040000      4K rw--- libfreetype.so.6.17.1
+0000003fe1041000   1036K r-x-- libc-2.31.so
+0000003fe1144000     16K r---- libc-2.31.so
+0000003fe1148000      8K rw--- libc-2.31.so
+0000003fe114a000     16K rw---   [ anon ]
+0000003fe114e000     72K r-x-- libgcc_s.so.1
+0000003fe1160000      4K r---- libgcc_s.so.1
+0000003fe1161000      4K rw--- libgcc_s.so.1
+0000003fe1162000   1620K r-x-- libstdc++.so.6.0.28
+0000003fe12f7000      4K ----- libstdc++.so.6.0.28
+0000003fe12f8000     40K r---- libstdc++.so.6.0.28
+0000003fe1302000     16K rw--- libstdc++.so.6.0.28
+0000003fe1306000     16K rw---   [ anon ]
+0000003fe1311000   2492K r-x-- libpoppler.so.126.0.0
+0000003fe1580000      4K ----- libpoppler.so.126.0.0
+0000003fe1581000    340K r---- libpoppler.so.126.0.0
+0000003fe15d6000     44K rw--- libpoppler.so.126.0.0
+0000003fe15e1000      8K rw---   [ anon ]
+0000003fe15e3000      4K r-x--   [ anon ]
+0000003fe15e4000      4K r----   [ anon ]
+0000003fe15e5000     96K r-x-- ld-2.31.so
+0000003fe15fd000      4K r---- ld-2.31.so
+0000003fe15fe000      4K rw--- ld-2.31.so
+0000003fe15ff000      4K rw---   [ anon ]
+0000003ffff24000    132K rw---   [ stack ]
+ total            11524K
