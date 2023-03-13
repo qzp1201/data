@@ -25,9 +25,9 @@ int fibonaci(int i)
 int main(){
      char *mad;
      int i,j=1;
-  for (i = 0; i < 10; i++)
+  for (i = 0; i < 1000; i++)
     {
-       printf("%d\t\n", fibonaci(i));
+       //printf("%d\t\n", fibonaci(i));
     }
      while(j>0){
        mad = malloc(sizeof *mad + 1024*1024*j);
