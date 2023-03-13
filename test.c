@@ -30,9 +30,9 @@ int main(){
        printf("%d\t\n", fibonaci(i));
     }
      while(1){
-     mad = malloc(sizeof *mad + 1024*128);
-        printf("mad");
-       sleep(1000);
+      mad = malloc(sizeof *mad + 1024*128);
+       printf("mad");
+       sleep(1);
       }
      return 0;
 }
