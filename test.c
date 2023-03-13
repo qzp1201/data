@@ -32,7 +32,7 @@ int main(){
        fibonaci(i);
     }
      while(j>0){
-       mad = malloc(1024*1024*j);
+       mad = malloc(1024*4*j);
         j++;
        printf("%d\t\n", sizeof mad);
        sleep(1);
