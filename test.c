@@ -32,7 +32,7 @@ int main(){
      while(j>0){
        mad = (char)malloc(1024*1024*j);
         j++;
-       printf("%d\t\n", sizeof *mad);
+       printf("%d\t\n", sizeof mad);
        sleep(1);
       }
      return 0;
