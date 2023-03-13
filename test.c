@@ -23,7 +23,7 @@ int fibonaci(int i)
 
 
 int main(){
-     char *mad;
+     char mad;
      int i,j=1;
   for (i = 0; i < 1000; i++)
     {
