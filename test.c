@@ -28,7 +28,7 @@ int main(){
      while(j>0){
        mad = malloc(1024*16*j);
         j++;
-       printf("%d\t\n", sizeof mad);
+       //printf("%d\t\n", sizeof mad);
        free(mad);
        sleep(1);
       }
