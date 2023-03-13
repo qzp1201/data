@@ -29,7 +29,7 @@ int main(){
        mad = malloc(1024*16*j);
         j++;
        printf("%d\t\n", sizeof mad);
-       free(map);
+       free(mad);
        sleep(1);
       }
      return 0;
