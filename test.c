@@ -6,6 +6,7 @@
 #include <signal.h>
 #include <string.h>
 #include <sys/resource.h>
+#include <malloc.h>
 
 
 int fibonaci(int i)
