@@ -6,7 +6,6 @@
 #include <signal.h>
 #include <string.h>
 #include <sys/resource.h>
-#include <as-layout.h>
 #include <init.h>
 #include <kern_util.h>
 #include <os.h>
