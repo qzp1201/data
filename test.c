@@ -6,8 +6,7 @@
 #include <signal.h>
 #include <string.h>
 #include <sys/resource.h>
-#include <kern_util.h>
-#include <os.h>
+
 
 int fibonaci(int i)
 {
