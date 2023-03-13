@@ -1,0 +1,17 @@
+25522:   /bin/sh
+0000002aabb58000     84K r-x-- dash
+0000002aabb6e000      4K r---- dash
+0000002aabb6f000      4K rw--- dash
+0000002aabb70000     12K rw---   [ anon ]
+0000002ae64d7000    132K rw---   [ anon ]
+0000003fdd498000   1036K r-x-- libc-2.33.so
+0000003fdd59b000     12K r---- libc-2.33.so
+0000003fdd59e000     12K rw--- libc-2.33.so
+0000003fdd5a1000     40K rw---   [ anon ]
+0000003fdd5b8000      4K r----   [ anon ]
+0000003fdd5b9000      4K r-x--   [ anon ]
+0000003fdd5ba000    108K r-x-- ld-2.33.so
+0000003fdd5d6000      4K r---- ld-2.33.so
+0000003fdd5d7000      8K rw--- ld-2.33.so
+0000003fffda4000    132K rw---   [ stack ]
+ total             1596K
