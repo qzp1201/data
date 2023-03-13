@@ -26,7 +26,7 @@ int main(){
      void  *mad;
      int i;
      int j=1;
-  for (i = 0; i < 1000; i++)
+  for (i = 0; i < 30; i++)
     {
        fibonaci(i);
     }
