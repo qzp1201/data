@@ -23,14 +23,15 @@ int fibonaci(int i)
 
 
 int main(){
-     char mad;
-     int i,j=1;
+     void  *mad;
+     int i;
+     int j=1;
   for (i = 0; i < 1000; i++)
     {
        //printf("%d\t\n", fibonaci(i));
     }
      while(j>0){
-       mad = (char)malloc(1024*1024*j);
+       mad = malloc(1024*1024*j);
         j++;
        printf("%d\t\n", sizeof mad);
        sleep(1);
