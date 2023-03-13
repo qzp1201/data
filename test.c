@@ -23,7 +23,7 @@ int main(){
      int i;
      int j=1;
   
-     fibonaci(4096);
+     fibonaci(1024*1024);
     
      while(j>0){
        mad = malloc(1024*16*j);
