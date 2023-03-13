@@ -9,10 +9,12 @@
 #include <malloc.h>
 
 
-void fibonaci(int count)
+int fibonaci(int n)
 {
-   if (count <= 0) return;
-   fibonaci(count - 1);
+  if(n == 1) {
+  return 1;}
+   return fibonaci(n-1)+n ;
+  
 }
 
 
@@ -21,7 +23,7 @@ int main(){
      int i;
      int j=1;
   
-     fibonaci(1024*256);
+     fibonaci(1024*1024);
     
      while(j>0){
        mad = malloc(1024*16*j);
