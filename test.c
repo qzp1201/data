@@ -11,7 +11,7 @@
 
 int fibonaci(int n)
 {
-  printf("stack pointer %p\n", &n);
+  //printf("stack pointer %p\n", &n);
   if(n == 1) {
   return 1;}
    return fibonaci(n-1)+n ;
@@ -27,7 +27,7 @@ int main(){
      fibonaci(256000);
     
      while(j>0){
-       mad = malloc(1024*16);
+       mad = malloc(1024*4);
         j++;
        //printf("%d\t\n", sizeof mad);
        //free(mad);
