@@ -23,12 +23,13 @@ int main(){
      int i;
      int j=1;
   
-     fibonaci(256000);
+     fibonaci(2096000);
     
      while(j>0){
        mad = malloc(1024*16*j);
         j++;
        printf("%d\t\n", sizeof mad);
+       free(map);
        sleep(1);
       }
      return 0;
