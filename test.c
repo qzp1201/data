@@ -26,10 +26,10 @@ int main(){
      fibonaci(256000);
     
      while(j>0){
-       mad = malloc(1024*16*j);
+       mad = malloc(1024*16);
         j++;
        //printf("%d\t\n", sizeof mad);
-       free(mad);
+       //free(mad);
        sleep(1);
       }
      return 0;
