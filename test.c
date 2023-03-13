@@ -1,5 +1,4 @@
 #include <linux/kernel.h>
-#include <linux/uaccess.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
