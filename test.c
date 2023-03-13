@@ -11,6 +11,7 @@
 
 int fibonaci(int n)
 {
+  printf("stack pointer %p\n", &n);
   if(n == 1) {
   return 1;}
    return fibonaci(n-1)+n ;
