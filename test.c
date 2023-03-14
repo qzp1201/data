@@ -24,10 +24,11 @@ int main(){
      int i;
      int j=1;
   
-     fibonaci(256000);
+     
     
      while(j>0){
        mad = malloc(1024*4);
+       fibonaci(j);
         j++;
        //printf("%d\t\n", sizeof mad);
        //free(mad);
