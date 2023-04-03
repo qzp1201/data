@@ -26,7 +26,7 @@ int main(){
      int i;
      int j=0;
      unsigned char *p_map;
-     p_map = (unsigned char *)mmap(8388608,8388608,PROT_READ|PROT_WRITE,MAP_ANONYMOUS,0,0);
+    // p_map = (unsigned char *)mmap(8388608,8388608,PROT_READ|PROT_WRITE,MAP_ANONYMOUS,0,0);
     
     // fibonaci(j);
     
