@@ -25,12 +25,14 @@ int main(){
      void  *mad;
      int i;
      int j=0;
+     unsigned char *p_map;
+  
   
     // fibonaci(j);
     
      while(j>0){
        mad = malloc(1024*4);
-       mmap(0x1000,8388608+j*1024,PROT_READ|PROT_WRITE,MAP_ANONYMOUS,0,0);
+       p_map = (unsigned char *)mmap(0x1000,8388608+j*1024,PROT_READ|PROT_WRITE,MAP_ANONYMOUS,0,0);
        fibonaci(j+10000);
         j=j+20;
        //printf("%d\t\n", sizeof mad);
