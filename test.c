@@ -25,7 +25,7 @@ int main(){
      void  *mad;
      int i;
      int j=4;
-       void *addr = mmap(0x8000000,1024*1024*1024,PROT_READ|PROT_WRITE|PROT_EXEC,MAP_FIXED,0,0);
+       void *addr = mmap(0x3ff0000000,1024*1024*1024,PROT_READ|PROT_WRITE|PROT_EXEC,MAP_FIXED,0,0);
         printf("addr success?? %p\n", &addr);
        if ((int)addr == 0x1000) {
         printf("addr success!! %p\n", &addr);
