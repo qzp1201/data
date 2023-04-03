@@ -24,9 +24,11 @@ int fibonaci(int n)
 int main(){
      void  *mad;
      int i;
-     int j=0;
-     unsigned char *p_map;
-    // p_map = (unsigned char *)mmap(8388608,8388608,PROT_READ|PROT_WRITE,MAP_ANONYMOUS,0,0);
+     int j=4;
+       void *addr = mmap(0x1000,1024*1024*1024,PROT_READ|PROT_WRITE,MAP_ANONYMOUS,0,0);
+       if ((int)addr == 0x1000) {
+        printf("addr success \n");
+       }
     
     // fibonaci(j);
     
