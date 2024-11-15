@@ -90,6 +90,8 @@ def kernelcheck(kconfig_path: str | None = None):
         arch = '64'
     elif 'CONFIG_X86_32=y' in kconfig:
         arch = '32'
+    elif 'CONFIG_RISCV=y' in kconfig:
+        arch = 'riscv'
 
     print("  Vanilla Kernel ASLR:                    ", end="")
     randomize_va = helpers.get_stdout('sysctl -n kernel.randomize_va_space').strip()
@@ -319,6 +321,9 @@ def kernelcheck(kconfig_path: str | None = None):
                 print("\033[32mEnabled\033[m")
             else:
                 print("\033[31mDisabled\033[m")
+    # riscv64 only
+    if arch == 'riscv':
+        print("\n* RISCV only:            ")
 
     # ARM64 only
     if arch == 'aarch64':
