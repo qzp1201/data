@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import chk_file
 import os
 import argparse
